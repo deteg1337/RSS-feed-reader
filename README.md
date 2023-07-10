@@ -1,6 +1,6 @@
 # RSS-feed-reader
-
+---
 ## Nutzung
-'''python 
+´´´python 
 python3 main.py
-'''
+´´´
